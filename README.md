@@ -6,3 +6,4 @@ Ejercicios de "Sistemas Operativos"
 
 ## Prácticas
 * [**Práctica 1**](https://github.com/agusrnfr/Sistemas-Operativos/blob/main/Practicas/Practica%201/Practica%201.pdf)
+* [**Práctica 2**](https://github.com/agusrnfr/Sistemas-Operativos/blob/main/Practicas/Practica%202/Practica%202.pdf)
